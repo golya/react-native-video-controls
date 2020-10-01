@@ -21,11 +21,11 @@
   },
   "dependencies": {
     "lodash": "^4.17.20",
-    "react-native": "^0.63.3",
+    "react-native": "0.63.2",
     "react-native-video": "r0b0t3d/react-native-video#feature/android-fullscreen"
   },
   "peerDependencies": {
-    "react-native": ">=0.63.3",
+    "react-native": "0.63.2",
     "react-native-video": "^5.0.0"
   },
   "devDependencies": {
